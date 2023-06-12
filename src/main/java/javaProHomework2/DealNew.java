@@ -1,4 +1,4 @@
-package jawaProHomework2;
+package javaProHomework2;
 
 public class DealNew {
     public static void main(String[] args) {

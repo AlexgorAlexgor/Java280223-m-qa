@@ -1,4 +1,4 @@
-package jawaProHomework2;
+package lesson3.task4;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -65,4 +65,3 @@ public class Deal {
     }
 
 }
-
